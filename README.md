@@ -1,7 +1,7 @@
 # NoteApp
 
-This is a simple note taking application which I wrote it in Java.
-This application is my first application that I have ever created but this isn't my actual project. I just followed a tutorial on youtube ;)
+Simple note taking application written in Java.
+
 
 What I use in this application :
  1. MVVM architecture to build this app.
